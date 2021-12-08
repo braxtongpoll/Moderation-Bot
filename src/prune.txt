@@ -1,0 +1,317 @@
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .ticketpanel Support
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .embedcolor 00ccff
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .embedcolor 00ccff
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .embedcolor 00ccff
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, The embed color was set to 00ccff
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .ticketpanel Support
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .ticketpanel Support
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .ticketpanel Support
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .help utility
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .hel
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .help utility
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .hel
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .help config
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .help config
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .help config
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .modlogs <#821273621107310612>
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, Moderation logs was set to 821273621107310612.
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: <@!715707378464456755>
+
+[Xen Applications#4329 (715707378464456755)]
+• Content: <@399718367335940117>, This servers prefix is: `>`
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: >botinfo
+
+[Xen Applications#4329 (715707378464456755)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: >botinfo
+
+[Xen Applications#4329 (715707378464456755)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: >botinfo
+
+[Xen Applications#4329 (715707378464456755)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: Ban Database Commands:
+Basic Commands
+Help
+Search (by ID)
+Information
+Invite (invites bot)
+
+Commands in DM
+Report
+Appeal
+
+Staff Commands
+Ban
+Unban
+Acceptreport
+Acceptappeal
+Denyreport
+Denyappeal
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .translate english Ich ist gut
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: <@!715707378464456755>
+
+[Xen Applications#4329 (715707378464456755)]
+• Content: <@399718367335940117>, This servers prefix is: `>`
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: >invite
+
+[Xen Applications#4329 (715707378464456755)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: https://discordapp.com/oauth2/authorize?client_id=716177958783549546&scope=bot&permissions=8
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .appeallogs <#830534420556808273>
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .appeallogs <#830534420556808273>
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .newappeallogs <#830534437699584071>
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .banlogs <#830534449425940530>
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .banlogs <#830534449425940530>
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, Ban logs was updated to 830534449425940530
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .discordlogs <#824527245422755880>
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, Discord logs was set to <#824527245422755880>.
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .welcomelogs <#824527245422755880>
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, The welcome logs channel was set to <#824527245422755880>.
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: !emit guildMemberAdd message.member
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: !emit guildMemberAdd message.member
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: !emit guildMemberAdd message.member
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .voicelogs <#832863921912152076>
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, Voice Channel logs was set to <#832863921912152076>.
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: !emit messageGuild message
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: test1
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: test1
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: test1
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: kkkk
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .say test
+
+[Development Helper#4781 (716177958783549546)]
+• Content: test
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: Unknown
+
+[Development Helper#4781 (716177958783549546)]
+• Content: test
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Unknown
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .modlogs <#824527245422755880>
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, Moderation logs was set to <#824527245422755880>.
+
+[Development Helper#4781 (716177958783549546)]
+• Content: Member Warned. They now have 1 warnings.
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .view-warnings <@!715707378464456755>
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .view-warnings <@&809265244060778507>
+
+[PlutoTheDev#1000 (399718367335940117)]
+• Content: .view-warnings <@&809265244060778507>
+
+[Development Helper#4781 (716177958783549546)]
+• Content: <@399718367335940117>, This member has no active warnings against them!
+
